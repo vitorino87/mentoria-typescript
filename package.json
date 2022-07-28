@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    
     "start": "lite-server",
     "watch": "tsc --watch"
   },
@@ -14,6 +15,6 @@
     "lite-server": "^2.6.1"
   },
   "devDependencies": {
-    "typescript": "^4.3.5"
+    "typescript": "^4.7.4"
   }
 }
